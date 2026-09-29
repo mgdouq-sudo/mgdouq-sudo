@@ -1,4 +1,4 @@
-<img src="header.svg" alt="Hi, I'm Mohammad Gharandouq!" width="100%">
+<img src="header.svg" alt="Hi, I'm Mohammad!" width="100%">
 
 **Bioinformatics Analyst & Research Assistant**, Flynn Lab, Boston University Chobanian & Avedisian School of Medicine
 

@@ -8,7 +8,7 @@ M.S. Bioinformatics, Boston University
 
 <div align="justify">
 
-I work on whole-genome sequencing analysis of pediatric osteosarcoma in the Flynn Lab, where we study Alternative Lengthening of Telomeres (ALT). I build Nextflow pipelines for somatic variant analysis (SNVs/indels, multi-caller structural variant detection, and copy number), validate complex structural variants at the read level in IGV, and reconstruct tumor clonal evolution with PhylogicNDT. At the ClawBio hackathon at the Broad Institute, I worked on the Diagnostic Odyssey challenge and built [igv-validator](https://github.com/mgdouq-sudo/osteosarc-igv-validation), a skill for [ClawBio](https://github.com/ClawBio/ClawBio), an open-source library of bioinformatics agent skills, that automates read-level variant validation in IGV.
+I work on whole-genome sequencing analysis of pediatric osteosarcoma in the Flynn Lab, where we study Alternative Lengthening of Telomeres (ALT). I build Nextflow pipelines for somatic variant analysis (SNVs/indels, multi-caller structural variant detection, and copy number), validate complex structural variants at the read level in IGV, and reconstruct tumor clonal evolution with PhylogicNDT. 
 
 Previously, I spent five years as a research assistant at the Cell Therapy Center, University of Jordan, modeling neurological disease with hiPSC-derived motor neurons. My master's thesis there was a first-author study on neuroprotection in hiPSC-derived neurons ([Neurotoxicity Research, 2025](https://doi.org/10.1007/s12640-025-00734-6)). I also contributed to a trio whole-exome sequencing project in pediatric developmental and epileptic encephalopathies, validating candidate variants by Sanger sequencing and checking segregation in family members.
 
